@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name ngHtmlPresentationApp
+ * @name Presentation
  * @description
- * # ngHtmlPresentationApp
+ * # Presentation
  *
  * Main module of the application.
  */
 angular
-  .module('ngHtmlPresentationApp', [
+  .module('Presentation', [
     'ngAnimate',
     'ngCookies',
     'ngMessages',

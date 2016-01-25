@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name ngHtmlPresentationApp.controller:AboutCtrl
+ * @name Presentation.controller:AboutCtrl
  * @description
  * # AboutCtrl
- * Controller of the ngHtmlPresentationApp
+ * Controller of the Presentation
  */
-angular.module('ngHtmlPresentationApp')
+angular.module('Presentation')
   .controller('AboutCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
