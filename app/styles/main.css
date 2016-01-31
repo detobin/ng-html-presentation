@@ -11,6 +11,67 @@ body {
   color: #ccc;
 }
 
+.page {
+  width: 95%;
+  height: 800px;
+}
+
+.text1 {
+  padding: 0;
+  height: 50%;
+  justify-content: center;
+  vertical-align: middle;  
+  background: #000;
+  color: #ddd;
+  font-size: 800%;
+}
+
+.text2 {
+  padding: 0;
+   height: 20%;
+   justify-content: center;
+  vertical-align: middle; 
+  background: #000;
+  color: #999;
+  font-size: 400%;
+}
+
+.text3 {
+  padding: 0;
+   justify-content: center;
+  vertical-align: middle; 
+  background: #000;
+  color: #555;
+  font-size: 30%;
+}
+
+.link1 {
+  font-size: 300%;
+}
+
+.code1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 70px;
+  font-size: 250%;
+  background: #000;
+  color: #ddd;
+}
+
+.code2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 70px;
+  font-size: 210%;
+  background: #000;
+  color: #999;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .footer {
